@@ -11,7 +11,7 @@ A simple and responsive digital clock built using **JavaScript**, **HTML**, and 
 ## Usage
 1. Clone the repository:
    ```bash
-  git clone [https://github.com/yourusername/js-digital-clock.git](https://github.com/Atifkaashif/Digital-Clock-Using-Javascript
+  git clone [[https://github.com/yourusername/js-digital-clock.git](https://github.com/Atifkaashif/Digital-Clock-Using-Javascript](https://github.com/Atifkaashif/Digital-Clock-Using-Javascript-/
 
  Open index.html in your web browser.
 
